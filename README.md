@@ -56,6 +56,7 @@ Besvara följande:
 2. Beskriv något som du inte lyckades få till som du ville och varför.
 3. Vad var den största utmaningen i projektet och hur hanterade du det?
 4. Vad tänker du att du skulle behöva lära dig mer om när du tänker tillbaka på arbetet ni utfört?
+5. Hur följde ni Scrum under arbetet?
 
 
 
